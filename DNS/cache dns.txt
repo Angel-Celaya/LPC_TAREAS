@@ -1,0 +1,401 @@
+C:\Users\angel>ipconfig /displaydns
+
+Configuración IP de Windows
+
+    chrome.cloudflare-dns.com
+    ----------------------------------------
+    Nombre de registro  . : chrome.cloudflare-dns.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 100
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:1ad3
+
+
+    Nombre de registro  . : chrome.cloudflare-dns.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 100
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:1bd3
+
+
+    chrome.cloudflare-dns.com
+    ----------------------------------------
+    Nombre de registro  . : chrome.cloudflare-dns.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 59
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.26.211
+
+
+    Nombre de registro  . : chrome.cloudflare-dns.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 59
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.27.211
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1296
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1296
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1296
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1296
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1295
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1295
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1295
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1295
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 539625
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : platform.wondershare.com
+
+
+    camo.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : camo.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1071
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : camo.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1071
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : camo.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1071
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : camo.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1071
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    www.microvirt.com
+    ----------------------------------------
+    Nombre de registro  . : www.microvirt.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 54
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www.microvirt.com.bsclink.cn
+
+
+    Nombre de registro  . : www.microvirt.com.bsclink.cn
+    Tipo de registro  . . : 5
+    Período de vida . . . : 54
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : uz95.v.bsclink.cn
+
+
+    Nombre de registro  . : uz95.v.bsclink.cn
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 38.122.90.198
+
+
+    Nombre de registro  . : uz95.v.bsclink.cn
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 38.122.90.195
+
+
+    slscr.update.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : slscr.update.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 66
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : sls.update.microsoft.com
+
+
+    Nombre de registro  . : sls.update.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 66
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.sls.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.sls.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 66
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2603:1030:403:3::96
+
+
+    slscr.update.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : slscr.update.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 48
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : sls.update.microsoft.com
+
+
+    Nombre de registro  . : sls.update.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 48
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.sls.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.sls.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 48
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.152.110.14
+
+
+    slscr.update.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : slscr.update.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 48
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : sls.update.microsoft.com
+
+
+    Nombre de registro  . : sls.update.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 48
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.sls.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.sls.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 48
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.152.110.14
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    Nombre de registro  . : platform.wondershare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 539625
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 3114
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 3114
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 3114
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 3114
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1343
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1343
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1343
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1343
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    fe3cr.delivery.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : fe3cr.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 36
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fe3.delivery.mp.microsoft.com
+
+
+    Nombre de registro  . : fe3.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 36
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.cws.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.cws.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 36
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.54.89.15
+
+
+    fe3cr.delivery.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : fe3cr.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 36
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fe3.delivery.mp.microsoft.com
+
+
+    Nombre de registro  . : fe3.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 36
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : glb.cws.prod.dcat.dsp.trafficmanager.net
+
+
+    Nombre de registro  . : glb.cws.prod.dcat.dsp.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 36
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.54.89.15
+
+
+    github.githubassets.com
+    ----------------------------------------
